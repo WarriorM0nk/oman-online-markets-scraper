@@ -6,7 +6,7 @@ This project will be divided in two segments/phases. The first phase will be for
 Other than whats mentioned above, proper orchestration, CI/CD and MLOps processes will be implemented in the future.
 
 # Data Collection/Modeling
-![Phase One](https://github.com/WarriorM0nk/oman-online-markets-scraper/docs/diagrams/phase_one.png)
+![Phase One](./docs/diagrams/phase_one.png)
 
 - [ ] **Master Script**: To act as an orchestrator that will retrieve website-specific configuration and also instantiate containers based on the number of websites applicable for scraping.
 - [ ] **Configuration Database**: To have a different set of configuration data based on the HTML structure and items advertised on each website.
