@@ -1,0 +1,8 @@
+__pycache__/
+dirty/
+downloaded_files/
+
+*.pyc
+*.env
+
+.venv
