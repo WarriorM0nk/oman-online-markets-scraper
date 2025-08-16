@@ -1,7 +1,8 @@
 __pycache__/
-dirty/
+prototyping/
 downloaded_files/
 src/stg/
+src/final/
 
 *.pyc
 *.env
