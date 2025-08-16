@@ -1,6 +1,7 @@
 __pycache__/
 dirty/
 downloaded_files/
+src/stg/
 
 *.pyc
 *.env
